@@ -12,7 +12,6 @@
 
 **Zing** is a niche dating application inspired by the concept of a "soulmate bond" from *Hotel Transylvania*. While most apps focus on superficial swiping, Zing is designed to match users based on **High-Fidelity Compatibility**: a composite of music, literature, cinema tastes, and core social/political beliefs.
 
-![App Mockup](https://via.placeholder.com/800x400?text=App+Mockup+-+Dark+Mode+UI+with+Neon+Accents)
 
 ---
 
