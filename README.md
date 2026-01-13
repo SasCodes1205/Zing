@@ -1,7 +1,13 @@
 # Zing 🦇 
-# 👥 The Team
-# Sasindi Welagedara - Lead Architect & Full Stack Developer
-# Navithma Mudalige - Associate Architect & AI/ML Engineer
+---
+
+## 👥 The Team
+
+* **Sasindi Welagedara** *Lead Architect & Full Stack Developer* Responsible for end-to-end system design, weighted algorithm implementation, and backend infrastructure.
+
+* **Navithma Mudalige** *Associate Architect & AI/ML Engineer* Responsible for interest-clustering logic, AI-generated icebreakers, and predictive matching models.
+
+---
 > **Status:** 🚧 Work in Progress (Planning & Architecture Phase)
 
 **Zing** is a niche dating application inspired by the concept of a "soulmate bond" from *Hotel Transylvania*. While most apps focus on superficial swiping, Zing is designed to match users based on **High-Fidelity Compatibility**: a composite of music, literature, cinema tastes, and core social/political beliefs.
